@@ -1,5 +1,3 @@
-module github.com/martinkunc/needsgomod
+module github.com/martinkunc/needsgomod@master
 
 go 1.13
-
-replace github.com/martinkunc/needsgomod github.com/martinkunc/needsgomod master
